@@ -1,0 +1,21 @@
+{
+  "name": "bootstrap-responsive-utils",
+  "description": "Responsive utilities from Bootstrap 4.0.0-alpha",
+  "main": [
+      "utilities-responsive.css",
+      "scss/utilities-responsive.scss"
+  ],
+  "keywords": [
+    "bootstrap",
+    "responsive",
+    "utils",
+    "css",
+    "scss"
+  ],
+  "authors": [
+    "Artem Terehin <arterehin@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/chillozz/bootstrap-responsive-utils.git",
+  "ignore": []
+}
