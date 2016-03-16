@@ -8,7 +8,7 @@ For those who only want to use the responsive utilities from Bootstrap 4.0.0-alp
 * [Download the latest release](https://github.com/chillozz/bootstrap-responsive-utils/archive/v1.0.0.zip).
 * Install with [Bower](http://bower.io): `bower install bootstrap-responsive-utils`.
 
-Read the [Responsive utilities](http://v4-alpha.getbootstrap.com/layout/responsive-utilities/) for information about available classes, and more.
+Read the [Responsive utilities documentation](http://v4-alpha.getbootstrap.com/layout/responsive-utilities/) for information about available classes, and more.
 
 ### What's included
 
